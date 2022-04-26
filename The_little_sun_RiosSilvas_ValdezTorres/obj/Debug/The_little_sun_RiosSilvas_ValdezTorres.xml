@@ -1,0 +1,226 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+The_little_sun_RiosSilvas_ValdezTorres
+</name>
+</assembly>
+<members>
+<member name="T:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources._6_saturno">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources._7_Urano">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.Buton_Mercurio">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.button_jupiter">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.button_marte">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.button_neptuno">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.button_saturno">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.button_tierra">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.button_urano">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.Button_venus">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.Cool_Text___jupiter_340061989419525">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.Cool_Text___marte_340061954021101">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.Cool_Text___Mercurio_340061195132554">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.Cool_Text___neptuno_340062169817553">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.Cool_Text___saturno_340062025923338">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.Cool_Text___Tierra_340061896061861">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.Cool_Text___urano_340062062466994">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.Cool_Text___Venus_340061820597707">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.jupiter">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.marte">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.menu">
+<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.mercurio1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.p1Me">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.p2Ve">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.p3Ti">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.p4Ma">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.p5Ju">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.p6Sa">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.p7Ur">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.p8Ne">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.saturno">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.sonido1">
+<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.Sound1">
+<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.Sound2">
+<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.sound3">
+<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.Sound4">
+<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.sound5">
+<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.tierra">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.urano">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:The_little_sun_RiosSilvas_ValdezTorres.My.Resources.Resources.venus1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

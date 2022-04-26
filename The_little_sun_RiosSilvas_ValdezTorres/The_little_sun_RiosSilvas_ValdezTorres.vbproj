@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9A766F00-B451-43BF-A463-1DA32F603814}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>The_little_sun_RiosSilvas_ValdezTorres.My.MyApplication</StartupObject>
+    <RootNamespace>The_little_sun_RiosSilvas_ValdezTorres</RootNamespace>
+    <AssemblyName>The_little_sun_RiosSilvas_ValdezTorres</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\PC\Documents\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>The_little_sun_RiosSilvas_ValdezTorres.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>The_little_sun_RiosSilvas_ValdezTorres.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icono1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>0D73F14C6DDE0360778F77918A6292F6439BAB82</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>The_little_sun_RiosSilvas_ValdezTorres_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Ndp\IdP_1.Designer.vb">
+      <DependentUpon>IdP_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ndp\IdP_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ndp\final1.Designer.vb">
+      <DependentUpon>final1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ndp\final1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ndp\inicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ndp\inicio.Designer.vb">
+      <DependentUpon>inicio.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ndp\menu1.Designer.vb">
+      <DependentUpon>menu1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ndp\menu1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Menu1.Designer.vb">
+      <DependentUpon>Menu1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Menu1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Ndp\NdP_1.Designer.vb">
+      <DependentUpon>NdP_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ndp\NdP_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="splash.Designer.vb">
+      <DependentUpon>splash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="splash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Ndp\final1.resx">
+      <DependentUpon>final1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ndp\inicio.resx">
+      <DependentUpon>inicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ndp\IdP_1.resx">
+      <DependentUpon>IdP_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ndp\menu1.resx">
+      <DependentUpon>menu1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Menu1.resx">
+      <DependentUpon>Menu1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ndp\NdP_1.resx">
+      <DependentUpon>NdP_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="splash.resx">
+      <DependentUpon>splash.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="The_little_sun_RiosSilvas_ValdezTorres_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icono1.ico" />
+    <None Include="Img\Button_venus.png" />
+    <None Include="Img\button_urano.png" />
+    <None Include="Img\button_tierra.png" />
+    <None Include="Img\button_saturno.png" />
+    <None Include="Img\button_neptuno.png" />
+    <None Include="Img\button_marte.png" />
+    <None Include="Img\button_jupiter.png" />
+    <None Include="Img\Buton_Mercurio.png" />
+    <None Include="Img\venus1.png" />
+    <None Include="Img\urano.png" />
+    <None Include="Img\tierra.png" />
+    <None Include="Img\saturno.png" />
+    <None Include="Img\mercurio1.png" />
+    <None Include="Img\marte.png" />
+    <None Include="Img\jupiter.png" />
+    <None Include="Img\botones nuevos\_6_saturno.png" />
+    <None Include="Img\botones nuevos\7_Urano.png" />
+    <None Include="Img\botones nuevos\1x\Mesa de trabajo 1copia2.png" />
+    <None Include="Img\botones nuevos\1x\Mesa de trabajo 1copia.png" />
+    <None Include="sound\sound5.wav" />
+    <None Include="sound\Sound4.wav" />
+    <None Include="sound\sound3.wav" />
+    <None Include="sound\Sound2.wav" />
+    <None Include="sound\Sound1.wav" />
+    <None Include="sound\sonido1.wav" />
+    <None Include="sound\menu.wav" />
+    <None Include="Img\NOMBRES\Cool Text - Venus 340061820597707.png" />
+    <None Include="Img\NOMBRES\Cool Text - urano 340062062466994.png" />
+    <None Include="Img\NOMBRES\Cool Text - Tierra 340061896061861.png" />
+    <None Include="Img\NOMBRES\Cool Text - saturno 340062025923338.png" />
+    <None Include="Img\NOMBRES\Cool Text - neptuno 340062169817553.png" />
+    <None Include="Img\NOMBRES\Cool Text - Mercurio 340061195132554.png" />
+    <None Include="Img\NOMBRES\Cool Text - marte 340061954021101.png" />
+    <None Include="Img\NOMBRES\Cool Text - jupiter 340061989419525.png" />
+    <None Include="Img\botones nuevos\p8Ne.png" />
+    <None Include="Img\botones nuevos\p7Ur.png" />
+    <None Include="Img\botones nuevos\p6Sa.png" />
+    <None Include="Img\botones nuevos\p5Ju.png" />
+    <None Include="Img\botones nuevos\p4Ma.png" />
+    <None Include="Img\botones nuevos\p3Ti.png" />
+    <None Include="Img\botones nuevos\p2Ve.png" />
+    <None Include="Img\botones nuevos\p1Me.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
